@@ -3,11 +3,11 @@
 A simple blog web application built using Node.js, Express.js, and EJS that allows users to create, view, edit, and delete blog posts.
 
 # 📌 Features
-  ✔️ Create Posts – Users can write and publish blog posts.
-  ✔️ View Posts – Users can see a list of their created posts.
-  ✔️ Edit Posts – Users can modify the content of existing blog posts.
-  ✔️ Delete Posts – Users can remove unwanted blog posts.
-  ✔️ Responsive Design – The application is styled for a smooth user experience on both desktop and mobile.
+  ✔️ Create Posts – Users can write and publish blog posts.  
+  ✔️ View Posts – Users can see a list of their created posts.  
+  ✔️ Edit Posts – Users can modify the content of existing blog posts.  
+  ✔️ Delete Posts – Users can remove unwanted blog posts.  
+  ✔️ Responsive Design – The application is styled for a smooth user experience on both desktop and mobile.  
 
 # 🛠️ Technologies Used
   Node.js – Backend server
