@@ -42,7 +42,12 @@ A simple blog web application built using Node.js, Express.js, and EJS that allo
   5️⃣ Open the app in your browser:
   http://localhost:3000
 
-https://github.com/Dinesh0007000/BlogSpace-Website/blob/main/Thumbnail.png
+<p align="center">
+  <a href="https://github.com/Dinesh0007000/BlogSpace-Website/blob/main/BlogSpace.webm">
+    <img src="https://github.com/Dinesh0007000/BlogSpace-Website/blob/main/Thumbnail.png" width="600">
+  </a>
+</p>
+
 
 # 📝 Future Improvements
   Add a database (MongoDB) for persistent data storage
