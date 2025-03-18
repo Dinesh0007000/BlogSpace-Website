@@ -10,10 +10,10 @@ A simple blog web application built using Node.js, Express.js, and EJS that allo
   ✔️ Responsive Design – The application is styled for a smooth user experience on both desktop and mobile.  
 
 # 🛠️ Technologies Used
-  Node.js – Backend server
-  Express.js – Web framework for handling routes
-  EJS – Templating engine for dynamic content
-  CSS – Styling for a better user experience
+  Node.js – Backend server  
+  Express.js – Web framework for handling routes  
+  EJS – Templating engine for dynamic content  
+  CSS – Styling for a better user experience  
 
 # 📂 Project Structure
   /blog-app  
@@ -27,23 +27,23 @@ A simple blog web application built using Node.js, Express.js, and EJS that allo
 
 # 🚀 Setup & Installation
 
-  1️⃣ Clone the repository:
-  git clone https://github.com/your-username/blog-app.git
+  1️⃣ Clone the repository:  
+  git clone https://github.com/your-username/blog-app.git  
+    
+  2️⃣ Navigate into the project folder:  
+  cd blog-app  
   
-  2️⃣ Navigate into the project folder:
-  cd blog-app
-  
-  3️⃣ Install dependencies:
-  npm install
-  
-  4️⃣ Start the server:
-  node app.js
-  
-  5️⃣ Open the app in your browser:
-  http://localhost:3000
+  3️⃣ Install dependencies:  
+  npm install  
+    
+  4️⃣ Start the server:  
+  node app.js  
+    
+  5️⃣ Open the app in your browser:  
+  http://localhost:3000  
 
 # BlogSpace Website Preview Video
-By clicking on below thumbnail you can redirect to the a page where it has a hyperlink as "viewraw" by clicking on it you can download the video
+By clicking on below thumbnail you can redirect to the a page where it has a hyperlink as "viewraw" by clicking on it you can download the video  
 <p align="center">
   <a href="https://github.com/Dinesh0007000/BlogSpace-Website/blob/main/BlogSpace.webm">
     <img src="https://github.com/Dinesh0007000/BlogSpace-Website/blob/main/Thumbnail.png" width="600">
@@ -52,9 +52,9 @@ By clicking on below thumbnail you can redirect to the a page where it has a hyp
 
 
 # 📝 Future Improvements
-  Add a database (MongoDB) for persistent data storage
-  Implement user authentication for better security
-  Enhance UI/UX with improved design
+  Add a database (MongoDB) for persistent data storage  
+  Implement user authentication for better security  
+  Enhance UI/UX with improved design  
 
 
 
