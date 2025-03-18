@@ -1,0 +1,28 @@
+<%-include("partials/header.ejs")%>
+
+<main>
+  <div id="logo">
+    <div class="logo">BS</div>
+    <div><p>Blogspace</p></div>
+  </div>
+
+
+  <div class="homepage">
+      <h1 style="display: none;">Turn Your Ideas into Blogs</h1>
+      <h5 style="display: none;">Start Your Blogging journey with BlogSpace</h5>
+      <div class="button" style="display: none;">
+          <a href="/create"><button>Create Blog</button></a>
+      </div>
+  </div>
+
+</main>
+<%-include("partials/footer.ejs")%>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+  $(document).ready(function(){
+    $("h1").delay(500).slideDown(1000);
+    $("h5").delay(750).slideDown(1000);
+    $(".button").delay(1000).slideDown(1000);
+  });
+</script>
