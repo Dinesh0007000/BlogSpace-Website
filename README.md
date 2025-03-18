@@ -42,6 +42,8 @@ A simple blog web application built using Node.js, Express.js, and EJS that allo
   5️⃣ Open the app in your browser:
   http://localhost:3000
 
+# BLogSpace Website Preview Video
+By clicking on below thumbnail you can redirect to the a page where it has a hyperlink as "viewraw" by clicking on it you can download teh video
 <p align="center">
   <a href="https://github.com/Dinesh0007000/BlogSpace-Website/blob/main/BlogSpace.webm">
     <img src="https://github.com/Dinesh0007000/BlogSpace-Website/blob/main/Thumbnail.png" width="600">
