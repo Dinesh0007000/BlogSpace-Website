@@ -20,7 +20,7 @@ A simple blog web application built using Node.js, Express.js, and EJS that allo
   │── /views          # EJS templates for UI  
   │── /public         # Static files (CSS, images)  
   │── /routes         # Express.js routes  
-  │── app.js          # Main server file  
+  │── index.js          # Main server file  
   │── package.json    # Dependencies and scripts  
   │── .gitignore      # Ignored files (node_modules, etc.)  
 
@@ -28,16 +28,16 @@ A simple blog web application built using Node.js, Express.js, and EJS that allo
 # 🚀 Setup & Installation
 
   1️⃣ Clone the repository:  
-  git clone https://github.com/your-username/blog-app.git  
+  git clone https://github.com/Dinesh0007000/BlogSpace-Website.git  
     
   2️⃣ Navigate into the project folder:  
-  cd blog-app  
+  cd BlogSpace-Website
   
   3️⃣ Install dependencies:  
   npm install  
     
   4️⃣ Start the server:  
-  node app.js  
+  node index.js  
     
   5️⃣ Open the app in your browser:  
   http://localhost:3000  
